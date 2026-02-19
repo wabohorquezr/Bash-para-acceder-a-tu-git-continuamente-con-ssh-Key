@@ -209,6 +209,7 @@ chmod +x confGit.sh
 ```
 
 
+
 Debian / Ubuntu
 
 ```bash
@@ -226,3 +227,5 @@ chmod +x confGit.sh
 ./confGit.sh
 ```
 
+<img width="977" height="61" alt="2026-02-19-055314_hyprshot" src="https://github.com/user-attachments/assets/65fc3d1b-d47f-425a-bd47-18ebd2685df6" />
+<img width="977" height="61" alt="2026-02-19-055314_hyprshot" src="https://github.com/user-attachments/assets/65fc3d1b-d47f-425a-bd47-18ebd2685df6" />
