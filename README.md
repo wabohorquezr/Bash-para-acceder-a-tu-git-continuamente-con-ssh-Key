@@ -227,5 +227,22 @@ chmod +x confGit.sh
 ./confGit.sh
 ```
 
+Tras copiar y copilar en un apartado aparecera un codigo similar copialo todo menos el correo y pegalo en la seccion de ssh en github.
 <img width="977" height="61" alt="2026-02-19-055314_hyprshot" src="https://github.com/user-attachments/assets/65fc3d1b-d47f-425a-bd47-18ebd2685df6" />
-<img width="977" height="61" alt="2026-02-19-055314_hyprshot" src="https://github.com/user-attachments/assets/65fc3d1b-d47f-425a-bd47-18ebd2685df6" />
+
+
+Asi lo podemos poner en SHH en github:
+
+<img width="3624" height="1850" alt="edit1" src="https://github.com/user-attachments/assets/21b1a323-796a-4c9a-8e9f-2e53f8f68094" />
+
+<img width="3624" height="1850" alt="edit2" src="https://github.com/user-attachments/assets/c2989eb2-7684-4c04-9bf6-daa0d4e5eddb" />
+
+<img width="3624" height="1850" alt="edit3" src="https://github.com/user-attachments/assets/c4464cf0-6321-4cbe-b7b5-077e6fe7ae8c" />
+
+<img width="3624" height="1850" alt="edit4" src="https://github.com/user-attachments/assets/0a0e0729-c9bd-4a9c-9cfd-6870121517ca" />
+
+
+
+
+
+
