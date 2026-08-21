@@ -23,13 +23,13 @@ Incluye:
 ### 1️⃣ Dar permisos de ejecución
 
 ```bash
-chmod +x setup_git_ssh.sh
+chmod +x confGit.sh
 ```
 
 ### 2️⃣ Ejecutar el script
 
 ```bash
-./setup_git_ssh.sh
+./confGit.sh
 ```
 
 ### 3️⃣ Ingresar:
